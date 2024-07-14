@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "fname": "سعيد",
+        "lname": "باوزير",
+        "city": "مكة"
+    },
+    {
+        "id": 2,
+        "fname": "Ayayoosh",
+        "lname": "Saeed",
+        "city": "Makkah"
+    },
+    {
+        "id": 3,
+        "fname": "Mime",
+        "lname": "Bawazeer",
+        "city": "Riydah"
+    },
+    {
+        "id": 4,
+        "fname": "Fatoom",
+        "lname": "Bawazeer",
+        "city": "Jeddah"
+    }
+]
